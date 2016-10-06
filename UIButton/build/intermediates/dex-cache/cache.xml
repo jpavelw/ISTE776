@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jpavelw/Desktop/UIButton/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="7aff04d69d2b3e1f51bc1272ea3c21661d5810e1">
+        <dex dex="/Users/jpavelw/Desktop/UIButton/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_5724693cb3a0a659b6b72ae7e488fd35f5cb358a.jar" />
+    </item>
+    <item
+        jar="/Users/jpavelw/Desktop/UIButton/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="5011ef1f2da9020ad7a40d054ade376cdeef0568">
+        <dex dex="/Users/jpavelw/Desktop/UIButton/app/build/intermediates/pre-dexed/debug/instant-run_005d0c15cdfd2c50896e7c3803a3ee887c7a7a26.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloYou</string>
+    <string name="btnWelcome">Welcome to ISTE456</string>
+    <string name="txtName">Enter your name here</string>
+</resources>

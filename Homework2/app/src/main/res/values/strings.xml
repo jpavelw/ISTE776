@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Homework2</string>
+    <string name="app_name_label">Rate my School</string>
+    <string name="school_list_btn_label">School List</string>
+    <string name="school_info_label">School Information</string>
+
+    <string name="school_name_label">Name:</string>
+    <string name="school_founded_label">Established:</string>
+    <string name="school_location_label">Location:</string>
+</resources>

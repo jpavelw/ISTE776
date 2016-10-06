@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FragmentExample</string>
+    <string name="app_name_label">Fragment Example</string>
+    <string name="list_fragment_btn">List Fragment</string>
+    <string name="about_info">Information About</string>
+    <string name="fragment_two_lbl">Fragment Two</string>
+</resources>

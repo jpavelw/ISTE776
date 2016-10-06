@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SimpleLogin</string>
+    <string name="login_label">Login</string>
+    <string name="hello_user_label">Hello Random User</string>
+    <string name="username_label">Username</string>
+    <string name="username_hint">Provide username</string>
+    <string name="password_label">Password</string>
+    <string name="password_hint">Provide password</string>
+    <string name="errorLoginMessage">Username or password do not match</string>
+    <string name="errorEmptyMessage">Provide both username and password</string>
+</resources>

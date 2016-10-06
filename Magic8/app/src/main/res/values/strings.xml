@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Magic8</string>
+    <string name="welcome_message">Welcome to the wizardy world of magic8.\nAsk a question and press predict</string>
+    <string name="predict_btn_text">Predict</string>
+</resources>

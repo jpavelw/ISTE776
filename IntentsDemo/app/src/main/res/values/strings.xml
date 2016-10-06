@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IntentsDemo</string>
+    <string name="app_name_title">Activity Loader</string>
+    <string name="explicit_activity_label">Explicit Activation</string>
+    <string name="explicit_activation_label">Explicit Activation</string>
+    <string name="implicit_activation_label">Implicit Activation</string>
+    <string name="default_text">No text entered</string>
+    <string name="enter_button_label">Enter</string>
+    <string name="explicit_label_message">You have sent an Explicit Intent!</string>
+    <string name="error_message">Something went wrong</string>
+</resources>

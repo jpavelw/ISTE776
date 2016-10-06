@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ActivityLab</string>
+    <string name="activityTwoText">Activity Two</string>
+    <string name="activityOneText">Activity One</string>
+    <string name="onCreateText">onCreate() calls:</string>
+    <string name="onStartText">onStart() calls:</string>
+    <string name="onResumeText">onResume() calls:</string>
+    <string name="onRestartText">onRestart calls:</string>
+    <string name="startActivityTwoBtnText">Start Activity Two</string>
+    <string name="closeActivityTwoBtn">Close Activity</string>
+</resources>
