@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Edible Roc</string>
+    <string name="fastfood">Fast Food</string>
+    <string name="casualDining">Casual Dinning</string>
+    <string name="eliteCuisine">Elite Cuisine</string>
+    <string name="GoButton">Take me There</string>
+    <string name="wrong_index_error">Please select a place</string>
+
+    <string-array name="fastfood_array">
+        <item>Arbys</item>
+        <item>McDonalds</item>
+        <item>Wendys</item>
+        <item>Nathans</item>
+    </string-array>
+
+    <string-array name="fastfood_addr">
+        <item>331 Monroe Ave, Rochester, NY 14607</item>
+        <item>420 Monroe Ave, Rochester, NY 14607</item>
+        <item>744 East Main St. Rochester, NY 14605</item>
+        <item>691 Park Ave Rochester, NY 14607</item>
+    </string-array>
+
+    <string-array name="casualdining_array">
+        <item>Sticky Lips</item>
+        <item>Texas Roadhouse</item>
+        <item>Aunt Rosie\'s</item>
+        <item>Phillips</item>
+    </string-array>
+    
+    <string-array name="casualdining_addr">
+        <item>830 Jefferson Rd, Rochester, NY 14623</item>
+        <item>3150 W Henrietta Rd, Rochester, NY 14623</item>
+        <item>350 E Main St, Rochester, NY 14606</item>
+        <item>26 Corporate Woods, Rochester, NY 14623</item>
+    </string-array>
+
+    <string-array name="elitecuisine_array">
+        <item>Red Lobster</item>
+        <item>Raj Mahal</item>
+        <item>Grappa</item>
+        <item>D\'Mangu</item>
+    </string-array>
+
+    <string-array name="elitecuisine_addr">
+        <item>655 W Jefferson Rd, Rochester, NY 14623</item>
+        <item>368 Jefferson Rd, Rochester, NY 14623</item>
+        <item>30, Celebration Dr, Rochester, NY 14620</item>
+        <item>1475 E Henrietta Rd, Rochester, NY 14623</item>
+    </string-array>
+</resources>

@@ -47,7 +47,7 @@ public class Login extends AppCompatActivity {
     }
 
     private boolean checkPassword(String username, String password){
-        ConnectivityManager connMgr = (ConnectivityManager) getSystemService(Activity.CONNECTIVITY_SERVICE);
+        /*ConnectivityManager connMgr = (ConnectivityManager) getSystemService(Activity.CONNECTIVITY_SERVICE);
         NetworkInfo networkInfo = connMgr.getActiveNetworkInfo();
         if(networkInfo != null && networkInfo.isConnected()){
             InputStream inputStream = null;
@@ -57,7 +57,7 @@ public class Login extends AppCompatActivity {
             } catch (Exception e){
                 Log.e("ERROR-B", e.getLocalizedMessage());
             }
-        }
+        }*/
         return false;
     }
 }

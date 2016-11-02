@@ -1,3 +1,5 @@
+Credentials.java
+
 # Built application files
 *.apk
 *.ap_
@@ -12,6 +14,12 @@
 bin/
 gen/
 out/
+
+# Windows thumbnail db
+Thumbs.db
+
+# OSX files
+.DS_Store
 
 # Gradle files
 .gradle/
@@ -38,3 +46,26 @@ captures/
 
 # Keystore files
 *.jks
+
+# Eclipse project files
+.classpath
+.project
+
+# Android Studio
+*.iml
+.idea
+#.idea/workspace.xml - remove # and delete .idea if it better suit your needs.
+.gradle
+build/
+
+#NDK
+obj/
+
+*.iml
+.gradle
+local.properties
+.idea/workspace.xml
+.idea/libraries
+build
+captures
+.externalNativeBuild

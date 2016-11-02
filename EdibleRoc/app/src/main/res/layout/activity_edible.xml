@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_edible"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.iste776.jpavelw.edibleroc.EdibleActivity">
+
+    <TextView
+        android:id="@+id/lblFastFood"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/fastfood"
+        android:gravity="center_horizontal"/>
+
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/lblFastFood"
+        android:layout_marginTop="20dp"
+        android:id="@+id/spinFastFood"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/lblCasualDining"
+        android:layout_marginTop="20dp"
+        android:gravity="center_horizontal"
+        android:text="@string/casualDining"
+        android:layout_below="@id/spinFastFood"/>
+
+    <Spinner
+        android:id="@+id/spinCasualDining"
+        android:layout_below="@+id/lblCasualDining"
+        android:layout_marginTop="20dp"
+        android:spinnerMode="dropdown"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/lblEliteCuisine"
+        android:gravity="center_horizontal"
+        android:text="@string/eliteCuisine"
+        android:layout_marginTop="20dp"
+        android:layout_below="@id/spinCasualDining"/>
+
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/lblEliteCuisine"
+        android:id="@+id/spinEliteCuisine"
+        android:spinnerMode="dropdown"
+        android:layout_marginTop="20dp"/>
+
+    <Button
+        android:text="@string/GoButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spinEliteCuisine"
+        android:layout_marginTop="20dp"
+        android:id="@+id/btnGo"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>
