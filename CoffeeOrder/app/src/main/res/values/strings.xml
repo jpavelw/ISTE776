@@ -1,0 +1,51 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Coffee Order</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="extras">Extras</string>
+    <string name="espresso">Espresso</string>
+    <string name="large">Large</string>
+    <string name="quantity">Quantity</string>
+    <string name="add_symbol">+</string>
+    <string name="initial_quantity_value">1</string>
+    <string name="subtract_symbol">-</string>
+    <string name="order">Order</string>
+    <string name="your_order_will_appear_here">Your order will appear here.</string>
+
+
+
+    <!-- DO NOT CHANGE ANY OF THE LINES BELOW, THEY ARE USED IN THE ORDER SUMMARY METHOD -->
+    <!--
+      Name for the order summary. It will be shown in the format of "Name: Debbie" where Debbie is the
+      user's name. [CHAR LIMIT=NONE]
+    -->
+    <string name="order_summary_name">Name: <xliff:g example="Deb" id="name">%s</xliff:g></string>
+    <!--
+      Extra espresso for the order summary. It will be shown in the format of
+      "Add espresso? YES" or "Add Espresso? No". [CHAR LIMIT=NONE]
+    -->
+    <string name="order_summary_add_espresso">Add Expresso? <xliff:g example="YES" id="yORn">%s</xliff:g></string>
+    <!--
+      Large coffee for the order summary. It will be shown in the format of
+      "Large Coffee? YES" or "Large Coffee? NO". [CHAR LIMIT=NONE]
+    -->
+    <string name="order_summary_large">Large Coffee? <xliff:g example="YES" id="yORn">%s</xliff:g></string>
+    <!--
+      Quantity of coffee cups for the order summary. It will be shown in the format of
+      "Quantity: 1", where 1 is the number of cups ordered. [CHAR LIMIT=NONE]
+    -->
+    <string name="order_summary_quantity">Quantity: <xliff:g example="2" id="quantity">%d</xliff:g></string>
+    <!--
+      Total price for the order summary. It will be shown in the format of
+      "Total: $10" where $10 is the price. [CHAR LIMIT=NONE]
+    -->
+    <string name="order_summary_price">Total: <xliff:g example="$10" id="price">%s</xliff:g></string>
+    <!-- Thank you message for the order summary. [CHAR LIMIT=NONE] -->
+    <string name="thank_you">Thank you!</string>
+    <!--
+      Subject line for the order summary email. It will be in the format of
+      "Coffee order for Debbie" where Debbie is the user's name. [CHAR LIMIT=NONE]
+    -->
+    <string name="order_summary_email_subject">Coffee order for <xliff:g example="Debbie" id="name">%s</xliff:g></string>
+
+</resources>

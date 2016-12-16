@@ -8,4 +8,7 @@
     <string name="password_hint">Provide password</string>
     <string name="errorLoginMessage">Username or password do not match</string>
     <string name="errorEmptyMessage">Provide both username and password</string>
+    <string name="errorWrongMessage">Something went wrong</string>
+    <string name="succUpdateMessgae">Credentials updated successfully</string>
+    <string name="changePassBtn">Update</string>
 </resources>
