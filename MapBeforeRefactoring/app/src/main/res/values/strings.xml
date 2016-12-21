@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Basho</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="use_gps">Use GPS</string>
+    <string name="location_settings">Location</string>
+
+    <string name="addCategoryLabel">Add Category</string>
+    <string name="new_category_label">New Category</string>
+    <string name="category_name">Name</string>
+    <string name="error_inserting_category">Could not insert category</string>
+    <string name="error_inserting_place">Could not insert place</string>
+    <string name="error_retrieving_place">Could not retrieve place</string>
+    <string name="error_not_US_place">The place must be in the US</string>
+    <string name="empty_category_list_message">Ooops! You new place needs a category</string>
+
+    <string name="place_info">Place Info</string>
+    <string name="place_name">Name</string>
+    <string name="place_street">Street</string>
+    <string name="place_city">City</string>
+    <string name="place_state">State</string>
+    <string name="place_zip_code">Zip Code</string>
+    <string name="place_zip_code_hint">Zip Code (optional)</string>
+    <string name="place_country">Country</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="add">Add</string>
+
+    <string name="content_desc">Location</string>
+
+    <string-array name="countries">
+        <item>US</item>
+    </string-array>
+</resources>
